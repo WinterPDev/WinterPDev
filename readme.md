@@ -10,7 +10,7 @@
   </td>
   <td>
 
-💁‍♀️  Full Time Software Development Instructor  [@CodingDojo](https://www.codingdojo.com/)
+💁‍♀️  Former Full Stack Software Development Instructor  
 
 🏳️‍⚧️  Member & Mentor [@TransTechSocial](https://transtechsocial.org/)
 
